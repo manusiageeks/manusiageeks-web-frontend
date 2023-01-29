@@ -21,7 +21,6 @@ function Btn({ value }) {
       style={{
         backgroundColor: isHover ? '#ffa1a1' : '#f44336',
         border: 0,
-        color: 'white',
         fontSize: '16px',
         margin: '4px 2px',
         padding: ' 10px 40px',
