@@ -40,6 +40,7 @@ function Contributors() {
               </Col>
             ))}
           </Row>
+          <hr />
         </Col>
       </Row>
     </Container>
