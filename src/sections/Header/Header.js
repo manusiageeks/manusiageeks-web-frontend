@@ -10,7 +10,7 @@ function Header() {
           <Typography value="manusiageeks." level={1} strong={true}/>
           <code>
             <strong>manusia</strong>
-            <TypingGenerator>means a person</TypingGenerator>
+            <TypingGenerator>means human</TypingGenerator>
           </code>
           <br />
           <code>

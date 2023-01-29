@@ -9,7 +9,7 @@ function Contributors() {
     <Container className="pt-3">
       <Row>
         <Col xs={12}>
-          <Typography value="contributors." level={1} />
+          <Typography value="contributors." level={3} />
           <hr />
           <Row className="text-center pt-4">
             {contributors.map((item, index) => (
